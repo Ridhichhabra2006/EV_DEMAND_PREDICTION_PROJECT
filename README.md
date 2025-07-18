@@ -1,6 +1,6 @@
 # EV_DEMAND_PREDICTION_PROJECT
 ---
-# 🚗 EV Adoption Forecasting – AICTE Internship July 2025
+# 🚗 EV Adoption Forecasting – AICTE Internship 
 
 ---
 
