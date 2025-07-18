@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on **preparing and analyzing EV adoption data** as part of the **AICTE Internship (July 2025)**. The goal is to clean, transform, and visualize the dataset to support accurate **forecasting of electric vehicle growth** across U.S. counties and states.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - ✅ Handle missing and inconsistent values  
 - ✅ Detect and treat outliers using the IQR method  
@@ -24,7 +24,7 @@ This project focuses on **preparing and analyzing EV adoption data** as part of 
 
 ---
 
-## 📊 Dataset Features
+## Dataset Features
 
 - **Date** – The timestamp of data collection  
 - **State / County** – Geographic distribution of adoption  
@@ -33,21 +33,12 @@ This project focuses on **preparing and analyzing EV adoption data** as part of 
 
 ---
 
-## 📁 Folder Structure
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - `Python `
 - `Pandas`, `NumPy`
 - `Seaborn`, `Matplotlib`
-
----
-
-## 🌟 What's Next?
-
-- Build a **forecasting model** (Prophet / ARIMA / ML)
-- Analyze EV adoption by state over time
-- Deploy the forecasting model in a dashboard (Streamlit / Flask)
 
 ---
 
